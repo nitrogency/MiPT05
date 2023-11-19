@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiPT_05</string>
+    <string name="url_addr">https://api.meteo.lt/v1/places/siauliai/forecasts/long-term</string>
+    <string name="tv_status">Check started</string>
+</resources>
